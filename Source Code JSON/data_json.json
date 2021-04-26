@@ -1,0 +1,29 @@
+[
+    {
+        "Nama_Grup":"Exo",
+        "Agensi":"SM Entertainment",
+        "Tahun_Debut":"2012",
+        "Jml_Anggota":"9"
+    },
+    
+    {
+        "Nama_Grup":"NCT",
+        "Agensi":"SM Entertainment",
+        "Tahun_Debut":"2016",
+        "Jml_Anggota":"23"
+    },
+
+    {
+        "Nama_Grup":"Blackpink",
+        "Agensi":"YG Entertainment",
+        "Tahun_Debut":"2016",
+        "Jml_Anggota":"4"
+    },
+
+    {
+        "Nama_Grup":"Treasure",
+        "Agensi":"YG Entertainment",
+        "Tahun_Debut":"2020",
+        "Jml_Anggota":"12"
+    }
+]

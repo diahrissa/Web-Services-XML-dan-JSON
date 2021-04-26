@@ -1,0 +1,48 @@
+<?xml version ="1.0"?>
+<Jadwal_Matkul>
+<matkul>
+    <id>1</id>
+    <hari>Senin</hari>
+    <mata_kuliah>Metodologi Penelitian dan Penulisan Karya Ilmiah</mata_kuliah>
+    <dosen_pengampu>Dr. Aradea, S.T., M.T.</dosen_pengampu>
+    <jadwal>15:51:00 - 17:30:00</jadwal>
+    <sks>2</sks>
+    <kelas>A</kelas>
+</matkul>
+<matkul>
+    <id>2</id>
+    <hari>Selasa</hari>
+    <mata_kuliah>Intelijen Bisnis</mata_kuliah>
+    <dosen_pengampu>Husni Mubarok, S.TP., M.T</dosen_pengampu>
+    <jadwal>07:00:00 - 09:30:00</jadwal>
+    <sks>3</sks>
+    <kelas>A</kelas>
+</matkul>
+<matkul>
+    <id>3</id>
+    <hari>Rabu</hari>
+    <mata_kuliah>Rekayasa Sistem dan Teknologi Informasi</mata_kuliah>
+    <dosen_pengampu>Rahmi Nur Shofa., S.T., M.T.</dosen_pengampu>
+    <jadwal>12:30:00 - 15:00:00</jadwal>
+    <sks>3</sks>
+    <kelas>A</kelas>
+</matkul>
+<matkul>
+    <id>4</id>
+    <hari>Kamis</hari>
+    <mata_kuliah>Web Services</mata_kuliah>
+    <dosen_pengampu>Alam Rahmatulloh., S.T., M.T.</dosen_pengampu>
+    <jadwal>09:31:00 - 12:00:00</jadwal>
+    <sks>3</sks>
+    <kelas>A</kelas>
+</matkul>
+<matkul>
+    <id>5</id>
+    <hari>Sabtu</hari>
+    <mata_kuliah>Kerja Praktek</mata_kuliah>
+    <dosen_pengampu>Rianto., S.T., M.T.</dosen_pengampu>
+    <jadwal>13:31:00 - 14:00:00</jadwal>
+    <sks>2</sks>
+    <kelas>N</kelas>
+</matkul>
+</Jadwal_Matkul>
